@@ -1,0 +1,10 @@
+{
+  "name": "Vision Optics — Computerised Eye Testing & Eyewear in Velachery, Chennai",
+  "short_name": "Vision Optics",
+  "description": "Trusted optical store in Velachery, Chennai. Computerised eye testing, quality eyewear at affordable prices.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4c1d95",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
