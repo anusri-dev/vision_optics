@@ -1,69 +1,69 @@
-```xml
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://visionopticsvelachery.in/</loc>
+    <loc>https://www.visionopticsvelachery.in/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://visionopticsvelachery.in/about</loc>
+    <loc>https://www.visionopticsvelachery.in/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://visionopticsvelachery.in/services</loc>
+    <loc>https://www.visionopticsvelachery.in/services</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://visionopticsvelachery.in/shop</loc>
+    <loc>https://www.visionopticsvelachery.in/shop</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://visionopticsvelachery.in/testimonials</loc>
+    <loc>https://www.visionopticsvelachery.in/testimonials</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://visionopticsvelachery.in/eye-care</loc>
+    <loc>https://www.visionopticsvelachery.in/eye-care</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://visionopticsvelachery.in/brands</loc>
+    <loc>https://www.visionopticsvelachery.in/brands</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://visionopticsvelachery.in/contact</loc>
+    <loc>https://www.visionopticsvelachery.in/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://visionopticsvelachery.in/privacy-policy</loc>
+    <loc>https://www.visionopticsvelachery.in/privacy-policy</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <url>
-    <loc>https://visionopticsvelachery.in/terms</loc>
+    <loc>https://www.visionopticsvelachery.in/terms</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <url>
-    <loc>https://visionopticsvelachery.in/sitemap</loc>
+    <loc>https://www.visionopticsvelachery.in/sitemap</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
